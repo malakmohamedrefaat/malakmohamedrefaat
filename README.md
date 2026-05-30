@@ -52,17 +52,36 @@ Currently exploring advanced probabilistic models using **PyMC**, while building
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
 ---
-/.
 
-## 📊 GitHub Analytics
+## 💼 Professional Experience & Internships
 
-<div align="center">
+* **Machine Learning Trainee** @ Digital Egypt Pioneers Initiative (DEPI) *(Jan 2026 - Present)*
+  * Deepening expertise in data cleaning, pipeline development, CNNs, and NLP Transformers.
+* **AI & Machine Learning Intern** @ Konecta *(July 2025 - Jan 2026)*
+  * Built real-world ML solutions with a primary focus on data processing pipelines and model optimization.
+* **Full-Stack .NET Trainee** @ Digital Egypt Pioneers Initiative (DEPI) *(Oct 2024 - June 2025)*
+  * Trained heavily on building secure, scalable backend and frontend web architectures.
+* **IT Intern** @ Eden Facility Management - Hassan Allam *(July 2024 - Aug 2024)*
+  * Managed network security firewalls, configured VoIP communication servers, and handled enterprise-level hardware infrastructure deployments.
+---
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=malakmohamedrefaat&show_icons=true&theme=tokyonight&hide_border=true" />
+## 🌟 Experience & Leadership
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malakmohamedrefaat&layout=compact&theme=tokyonight&hide_border=true" />
+### 🤖 IEEE Robotics & Automation Society
 
-</div>
+* Developed autonomous robotics and control systems
+* Worked on embedded and hardware-integrated projects
+* Collaborated within multidisciplinary engineering teams
+
+### 🌍 AIESEC Global Volunteer — Sri Lanka
+
+* Facilitated cross-cultural communication and teamwork
+* Organized and coordinated international youth activities
+* Strengthened leadership and project management skills
+
+### 📚 Community Educator
+
+* Conducted origami and Mentored students through hands-on learning experiences
 
 ---
 
