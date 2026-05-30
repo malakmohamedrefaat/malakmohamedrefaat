@@ -69,12 +69,10 @@ Currently exploring advanced probabilistic models using **PyMC**, while building
   * Developed autonomous robotics and control systems
   * Worked on embedded and hardware-integrated projects
   * Collaborated within multidisciplinary engineering teams
-
 * **AIESEC Global Volunteer — Sri Lanka**
   * Facilitated cross-cultural communication and teamwork
   * Organized and coordinated international youth activities
   * Strengthened leadership and project management skills
-
 * **Community Educator**
   * Conducted origami and Mentored students through hands-on learning experiences
 
