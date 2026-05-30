@@ -19,8 +19,6 @@
 I'm an AI student focused on building intelligent systems that combine:
 
 * 🤖 Machine Learning & Deep Learning
-* 📊 Probabilistic Modeling & Bayesian Inference
-* 🧠 Cognitive-Inspired AI Systems
 * 💻 Software Engineering & Full-Stack Development
 * 🔬 Research-Oriented Problem Solving
 
